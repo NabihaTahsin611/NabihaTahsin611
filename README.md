@@ -1,4 +1,4 @@
-## Hi there 👋, Hi there 👋, Hello! It's Nabiha Tahsin.
+## Hello! It's Nabiha Tahsin.
 ### Data Science & SQA Enthusiast
 I wish to learn more about technology, pursue self-growth in Data Science & Analysis and Software Quality Assurance & participate in building skills.
 
