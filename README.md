@@ -1,8 +1,8 @@
 ## Hello! It's Nabiha Tahsin.
-### Data Science & SQA Enthusiast
-I wish to learn more about technology, pursue self-growth in Data Science & Analysis and Software Quality Assurance & participate in building skills.
+### Data Science & Machine Learning Enthusiast
+I wish to learn more about technology, pursue self-growth in Data Science & Analysis and Machine Learning & participate in building skills and model training.
 
-- 🌱 I’m currently learning Data Analytics & Software Quality Testing 
+- 🌱 I’m currently learning Data Analytics & ML 
 - 📫 How to reach me: tahsin.n611@gmail.com 
 
 #### Find me on:
